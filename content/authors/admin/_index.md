@@ -65,8 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  - Researchers
+  - Principal Investigator
 ---
 
 Boozhoo! 
@@ -75,5 +74,5 @@ My work focuses on the adaptation of 'everyday' and soft matter physics to inspi
 This curiosity-driven research aims to develop predictive models of nonlinear systems inspired by mechanical instabilities, biology, and art.
 On the day-to-day you will find me using bubbles and balloons or beads and string as a craftman's tools to build new materials.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_tjj_2023_03_30.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tjj-cv.pdf" "newtab" >}}cv{{< /staticref >}}.
 
