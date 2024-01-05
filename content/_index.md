@@ -55,7 +55,7 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: contain
+          size: cover
         text_color_light: true
       css_class: fullscreen
   
