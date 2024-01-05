@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD Opening
+title: Elastic Computation
 
 # Full name (for SEO)
 first_name: PhD
@@ -25,9 +25,9 @@ organizations:
 bio: My research interests include distributed robotics and programmable matter.
 
 interests:
-  - Granular Matter
-  - Soft Wearables
-  - Design
+  - Non-linear Dynamics
+  - Elasticity
+  - Mechanical Intelligence
 
 education:
   courses:
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Openings
 ---
 
-PhD opening in mechanics of bead-weaving.
+PhD opening in multi-stable functional materials.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bead-woven Materials
+title: Bio-degradable Robotics
 
 # Full name (for SEO)
 first_name: PhD
@@ -8,13 +8,13 @@ last_name: Opening
 
 # Username (this should match the folder name)
 authors:
-  - phd_opening_01
+  - phd_opening_04
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics and programmable matter.
+bio: My research interests include bio-robotics and programmable matter.
 
 interests:
-  - Granular Matter
-  - Soft Wearables
-  - Metamaterials
+  - Soft Robotics
+  - Bio-Materials
+  - Design
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
   - Openings
 ---
 
-PhD opening in mechanics of bead-weaving.
+PhD opening in fluid-mediated textile fabrication.

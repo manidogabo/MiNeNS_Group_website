@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD Opening
+title: Fluid-mediated Textiles
 
 # Full name (for SEO)
 first_name: PhD
@@ -25,8 +25,8 @@ organizations:
 bio: My research interests include distributed robotics and programmable matter.
 
 interests:
-  - Granular Matter
-  - Soft Wearables
+  - Fluids & Elasticity
+  - Self-Assembly Fabrication
   - Design
 
 education:
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Openings
 ---
 
-PhD opening in mechanics of bead-weaving.
+PhD opening in fluid-mediated textile fabrication.

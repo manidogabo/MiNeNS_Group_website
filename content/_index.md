@@ -40,8 +40,8 @@ sections:
 
         <span style="color:#C41230">**Lab**</span>oratory
       subtitle: 'Carnegie Mellon University'
-      image:
-        filename: welcome.jpg
+      # image:
+      #   filename: welcome.jpg
       text: |
         The <span style="color:#C41230">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead -- _manidoo<span style="color:#007BC0">**minens**</span>_ -- which translates to English as _spirit-<span style="color:#007BC0">seed</span>_.
         While we indeed work with beading, our general aim is to _<span style="color:#007BC0">seed</span>_ technologies that transform simple mechanical inputs into the complex assembly and control of materials. 
@@ -49,7 +49,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: News
       subtitle:
       text:
       count: 5

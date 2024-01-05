@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Bead-woven Materials
 
 event: Wowchemy Conference
 event_url: https://example.org
