@@ -4,6 +4,24 @@ title:
 date: 2022-10-24
 type: landing
 
+
+gallery_item:
+  - album: gallery
+    image: balloon-pop.jpg
+    caption: Deformation, bursting, and bouncing of water balloons
+  - album: gallery
+    image: bead-defects.jpg
+    caption: Beaded sheets
+  - album: gallery
+    image: bead-dome.png
+    caption: Beaded gridshell based on Chebyshev Nets
+  - album: gallery
+    image: exp-waterBomb.png
+    caption: Time series of a bouncing elastic capsule
+  - album: gallery
+    image: snake-fall.jpg
+    caption: A chain hitting an obstacle
+
 sections:
 #   - block: markdown
 #     design:
@@ -60,6 +78,7 @@ sections:
         <span style=" background: rgba(0,0,0,.3); padding: 5px"> The <span style="color:#F3B26D">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead: _manidoominens_. When going from _Ojibwemowin_ to English, _manidoominens_ is translated as _spirit-seed_. In the spirit of its english acronym, our general aim is to seed technologies that transform simple mechanical inputs into the complex assembly and control of materials. We interact with multiple applications (e.g. soft robotics, architecture, medical devices, roll-to-roll manufacturing) while working at the intersections of interfacial, flexible, granular, and active matter. At our core, the <span style="color:#F3B26D">**MInEnS Lab**</span> is curiosity driven by nature and we aim to develop core knowledge alongside all technical pursuits.
 
         {{% cta cta_link="./people/" cta_text="Join Us! →" %}}
+
         {{< youtube 61HpWDJ1bsw >}}
 
     design:
@@ -105,4 +124,10 @@ sections:
   #     view: card
   #     columns: '1'
   
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |
+        {{< gallery album="gallery" >}}
 ---
