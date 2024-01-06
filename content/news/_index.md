@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Latest News
 
 # Listing view

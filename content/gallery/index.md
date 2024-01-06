@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Gallery
 date: 2022-10-24
 

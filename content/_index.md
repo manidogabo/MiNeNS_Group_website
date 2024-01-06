@@ -5,6 +5,22 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: exp_waterBomb.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain
+        text_color_light: false
+      spacing:
+        padding: ['0', '0', '1', '0']
+    #   css_class: fullscreen
+  
   # - block: markdown
   #   content:
   #     title: |
@@ -46,19 +62,11 @@ sections:
         To this end, we work at the intersection of fabrication and design using the unique mathematical properties of interfacial flows and flexible structures. 
 
         {{% cta cta_link="./people/" cta_text="see openings →" %}}
+        {{< youtube 61HpWDJ1bsw >}}
     design:
       columns: '2'
-      background:
-        image: 
-          filename: bead_defects.jpg
-          filters:
-            brightness: 1
-          parallax: true
-          position: center
-          size: cover
-        text_color_light: true
-      css_class: fullscreen
-  
+      spacing:
+        padding: ['1', '0', '1', '0']
   # - block: markdown
   #   content:
   #     title:
