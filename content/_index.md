@@ -57,10 +57,9 @@ sections:
       # image:
       #   filename: bead_defects.jpg
       text: |
-        <span style=" background: rgba(0,0,0,.3); padding: 5px"> The <span style="color:#F3B26D">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead: _manidoominens_. When translated from _Ojibwemowin_ to English, _manidoominens_ is read as _spirit-seed_. In the spirit of its english acronym, our general aim is to seed technologies that transform simple mechanical inputs into the complex assembly and control of materials. To this end, we work at the intersection of fabrication and design using the unique mathematical properties of interfacial flows and flexible structures. </span>
+        <span style=" background: rgba(0,0,0,.3); padding: 5px"> The <span style="color:#F3B26D">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead: _manidoominens_. When going from _Ojibwemowin_ to English, _manidoominens_ is translated as _spirit-seed_. In the spirit of its english acronym, our general aim is to seed technologies that transform simple mechanical inputs into the complex assembly and control of materials. We interact with multiple applications (e.g. soft robotics, architecture, medical devices, roll-to-roll manufacturing) while working at the intersections of interfacial, flexible, granular, and active matter. At our core, the <span style="color:#F3B26D">**MInEnS Lab**</span> is curiosity driven by nature and we aim to develop core knowledge alongside all technical pursuits.
 
-
-        {{% cta cta_link="./people/" cta_text="see openings →" %}}
+        {{% cta cta_link="./people/" cta_text="Join Us! →" %}}
         {{< youtube 61HpWDJ1bsw >}}
 
     design:
@@ -73,6 +72,7 @@ sections:
           parallax: false
           position: center
           size: cover
+          caption: testing 123
         text_color_light: true
       spacing:
         padding: ['1', '0', '1', '0']
