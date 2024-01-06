@@ -21,6 +21,15 @@ gallery_item:
   - album: gallery
     image: snake-fall.jpg
     caption: A chain hitting an obstacle
+  - album: gallery
+    image: bead-patterns.png
+    caption: Planar regular polygonal weaves 
+  - album: gallery
+    image: raspberry.jpg
+    caption: An all-in-one soft robotic gripper and muscle
+  - album: gallery
+    image: wings.jpg
+    caption: Cicada wings at various deployment stages
 
 sections:
 #   - block: markdown
