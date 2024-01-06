@@ -5,21 +5,21 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: exp_waterBomb.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-        text_color_light: false
-      spacing:
-        padding: ['0', '0', '1', '0']
-    #   css_class: fullscreen
+#   - block: markdown
+#     design:
+#       columns: '1'
+#       background:
+#         image: 
+#           filename: bead-blur.jpg
+#           filters:
+#             brightness: 1
+#           parallax: false
+#           position: center
+#           size: cover
+#         text_color_light: false
+#       spacing:
+#         padding: ['0', '0', '1', '0']
+#       css_class: fullscreen
   
   # - block: markdown
   #   content:
@@ -51,22 +51,32 @@ sections:
         <span style="color:#F3B26D">**M**</span>echanically 
         <span style="color:#F3B26D">**In**</span>telligent 
         <span style="color:#F3B26D">**En**</span>gineered 
-        <span style="color:#F3B26D">**S**</span>tructures
-        <span style="color:#F3B26D">**Lab**</span>oratory
+        <span style="color:#F3B26D">**S**</span>tructures 
+        <span style="color:#F3B26D">**Lab**</span>oratory 
       subtitle: ''
       # image:
       #   filename: bead_defects.jpg
       text: |
-        The <span style="color:#F3B26D">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead: _manidoominens_. When translated from _Ojibwemowin_ to English, _manidoominens_ is read as _spirit-seed_.
-        In the spirit of its english acronym, our general aim is to seed technologies that transform simple mechanical inputs into the complex assembly and control of materials. 
-        To this end, we work at the intersection of fabrication and design using the unique mathematical properties of interfacial flows and flexible structures. 
+        <span style=" background: rgba(0,0,0,.3); padding: 5px"> The <span style="color:#F3B26D">**MInEnS Lab**</span> gets its name from the _Ojibwemowin_ word for bead: _manidoominens_. When translated from _Ojibwemowin_ to English, _manidoominens_ is read as _spirit-seed_. In the spirit of its english acronym, our general aim is to seed technologies that transform simple mechanical inputs into the complex assembly and control of materials. To this end, we work at the intersection of fabrication and design using the unique mathematical properties of interfacial flows and flexible structures. </span>
+
 
         {{% cta cta_link="./people/" cta_text="see openings →" %}}
         {{< youtube 61HpWDJ1bsw >}}
+
     design:
       columns: '2'
+      background:
+        image: 
+          filename: bead-blur.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+        text_color_light: true
       spacing:
         padding: ['1', '0', '1', '0']
+      css_class: fullscreen
   # - block: markdown
   #   content:
   #     title:
