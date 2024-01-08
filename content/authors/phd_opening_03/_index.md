@@ -70,4 +70,4 @@ user_groups:
   - Openings
 ---
 
-PhD opening in bio-degradable functional materials
+PhD opening in fluid-mediated textile fabrication.
