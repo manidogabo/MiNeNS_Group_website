@@ -26,6 +26,10 @@ One of the benefits of a research position is the day-to-day flexibility that ac
 - Expecations
     - In-person attendance to group, subgroup, and 1:1 meetings when possible.
 ### communication
+The foundation of positive relationships is built on open, frequent, and positive communication. My goal is to build an environment of trust, where trainees can communicate without the judgement that leads to (1) fear of speaking or (2) shame of having spoken. It is important that the communication is positive in both ways. You can help achieve that by
+- Keeping constant communication channels open through participation in-person (meetings) and online (slack) forums
+- Asking for help and seeking guidance when you feel it is required
+- 
 ### growth
 The _end-product_ of your time as a trainee in the group is **YOU**. While events like graduation will mark a specific date of accomplishment, your journey happens everyday in-between joining and leaving the goup. Thus, there is a continual expectation to develop yourself in the group. These include:
 - developing your techincal skills and knowledge,
