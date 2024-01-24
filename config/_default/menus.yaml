@@ -16,18 +16,18 @@ main:
   #   url: research
   #   weight: 30
     
-  - name: People
+  - name: people
     url: people
     weight: 40
 
-  - name: Publications
+  - name: publications
     url: publication
     weight: 50
 
-  # - name: News
-  #   url: news
+  # - name: philosophy
+  #   url: doc
   #   weight: 60
 
-  - name: Contact
+  - name: contact
     url: contact
     weight: 90
