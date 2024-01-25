@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: expectations
 summary: What I expect from you and you can expect from me
-weight: 1
+weight: 2
 icon: book-reader
 icon_pack: fas
 
@@ -24,17 +24,17 @@ One of the benefits of a research position is the day-to-day flexibility that ac
 - Best practices:
     - In-office/lab between standard hours (_i.e._ ~10am-3pm) for both convenient and natural interactions with the group.
 - Expecations
-    - In-person attendance to group, subgroup, and 1:1 meetings when possible.
+    - In-person attendance to group, subgroup, and 1:1 meetings.
 ### communication
-The foundation of positive relationships is built on open, frequent, and positive communication. My goal is to build an environment of trust, where trainees can communicate without the judgement that leads to (1) fear of speaking or (2) shame of having spoken. It is important that the communication is positive in both ways. You can help achieve that by
-- Keeping constant communication channels open through participation in-person (meetings) and online (slack) forums
+The foundation of positive relationships is built on open, frequent, and positive communication. My goal is to build an environment of trust, where trainees can communicate to me and eachother without the judgement that leads to (1) fear of speaking or (2) shame of having spoken. It is important that the communication is reciprocal and respectful at all times. You can help achieve this by
+- Keeping constant communication channels open through participation in-person (meetings) and online (slack) spaces
 - Asking for help and seeking guidance when you feel it is required
 - 
 ### growth
-The _end-product_ of your time as a trainee in the group is **YOU**. While events like graduation will mark a specific date of accomplishment, your journey happens everyday in-between joining and leaving the goup. Thus, there is a continual expectation to develop yourself in the group. These include:
+The "*end-product*" of your time as a trainee in the group is **YOU**. While events like graduation will mark a specific date of accomplishment, your journey happens everyday in-between joining and leaving the goup. Thus, there is a continual expectation to develop yourself in the group. These include:
 - developing your techincal skills and knowledge,
 - making incremental progress on your research, 
-- improving as a mentor, teacher, and citizen of the group
+- personal development as a mentor, teacher, and citizen of the group
 ### goals
 
 

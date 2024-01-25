@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Writing in Terminal
 summary: Steps for setting up LaTeX writing in terminal via vim with PDF link support
-weight: 1
+weight: 3
 icon: book
 icon_pack: fas
 
