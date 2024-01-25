@@ -18,7 +18,7 @@ organizations:
     url: https://www.meche.engineering.cmu.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fluids & elasticity, soft matter, and nonlinear dynamics.
+bio: Anishinaabe scholar interested in fluids & elasticity, soft matter, and nonlinear dynamics.
 
 # Interests to show in About widget
 interests:
