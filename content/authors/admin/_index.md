@@ -66,11 +66,12 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+  - Openings
 ---
 
 Boozhoo! 
 I am an Assistant Professor of Mechanical Engineering at Carnegie Mellon University.
-My work focuses on the adaptation of 'everyday' and soft matter physics to inspire, inform, and design new technologies. 
+My work focuses on the adaptation of *everyday* and soft matter physics to inspire, inform, and design new technologies. 
 This curiosity-driven research aims to develop predictive models of nonlinear systems inspired by mechanical instabilities, biology, and art.
 On the day-to-day you will find me using bubbles and balloons or beads and string as a craftman's tools to build new materials.
 
