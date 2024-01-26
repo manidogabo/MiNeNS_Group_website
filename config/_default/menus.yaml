@@ -24,9 +24,9 @@ main:
     url: publication
     weight: 50
 
-  # - name: philosophy
-  #   url: doc
-  #   weight: 60
+  - name: philosophy
+    url: doc
+    weight: 60
 
   - name: contact
     url: contact

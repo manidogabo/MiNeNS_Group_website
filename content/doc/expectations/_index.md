@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: expectations
+linktitle: Expectations
 summary: What I expect from you and you can expect from me
 weight: 2
 icon: book-reader
@@ -13,11 +13,15 @@ type: book # Do not modify.
 toc: true
 ---
 
+{{% callout warning %}}
+This page is still under construction!
+{{% /callout %}}
+
 The **MInEnS Lab** is an academic group that is defined by a PI, trainees, and the network of relationships amongst our members. 
 Thus, we each have personal responsibilities to build positive relationships at the personal and group levels.
 These expectations aim to set the foundation that guides our roles in an up-front and clear manner. 
 
-## My expectations for trainees
+## Expectations for trainees
 
 ### time and space
 One of the benefits of a research position is the day-to-day flexibility that accompanies working on a long-term project. In many ways, this means that you can choose when and where you work. Still, there are some expectations and best practices that benefit us individually and collaboratively.
@@ -38,9 +42,10 @@ The "*end-product*" of your time as a trainee in the group is **YOU**. While eve
 ### goals
 
 
-## Your expectations from me
+## Expectations for PI
 
 ### time and space
+It is important that I am like-wise available to share time and space with you. Further, I am responsible for setting the system
 ### resources
 ### training
 ### vision
