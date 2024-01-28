@@ -1,5 +1,8 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
+  font-size: 1 em; 
+  font-weight: 200;
+  font-variant-caps: small-caps;
   text-align: center;
 }
 
@@ -8,7 +11,72 @@
   justify-content: center;
 }
 
+// Hexagon shaped avatars
 .avatar-square {
   -webkit-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
   clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
+
+// Headers
+.navbar a {
+  font-size: 1 em;
+  font-weight: 200;
+  font-variant-caps: small-caps;
+}
+.col-md-12 h2 {
+    font-size: 1 em;
+    font-weight: 200;
+    font-variant-caps: small-caps;
+  }
+.section-heading h1 {
+  font-size: 1 em;
+  font-weight: 200;
+  font-variant-caps: small-caps;
+}
+.docs-article-container h1{
+  font-size: 1 em;
+  font-weight: 200;
+  font-variant-caps: small-caps;
+}
+.article-container h1{
+    font-size: 1 em;
+    font-weight: 200;
+    font-variant-caps: small-caps;
+}
+.citations h1{
+    font-size: 1 em;
+    font-weight: 200;
+    font-variant-caps: small-caps;
+}
+.article-style h2 {
+  font-size: 1.5em;
+  font-variant-caps: petite-caps;
+}
+.article-style h3 {
+    font-size: 1.25em;
+    font-weight: normal;
+    font-variant-caps: petite-caps;
+  }
+.article-style p {
+    font-size: 1em;
+    font-weight: normal;
+}
+.article-style h2:after {
+  content:' ';
+  display:block;
+  border:.1rem solid #d0d0d0;
+  border-radius:4px;
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+  -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+#TableOfContents li a {
+  line-height: 20px
+}
+
+.docs-toc {
+  text-align: left;
 }

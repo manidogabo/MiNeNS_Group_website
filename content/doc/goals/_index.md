@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Goals
 summary: Lab goals
-weight: 3
+weight: 4
 icon: book-reader
 icon_pack: fas
 

@@ -7,7 +7,8 @@ first_name: Trevor
 last_name: Jones
 
 # Is this the primary user of the site?
-superuser: true
+authors:
+  - pi
 
 # Role/position
 role: Assistant Professor
@@ -65,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - admin
+  - Principal Investigator
 ---
 
 Boozhoo! 

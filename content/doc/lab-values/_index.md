@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Lab Values
 summary: The core values of the **MInEnS Lab**
-weight: 1
+weight: 2
 icon: book-reader
 icon_pack: fas
 
