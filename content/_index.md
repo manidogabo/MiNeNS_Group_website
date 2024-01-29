@@ -75,10 +75,10 @@ sections:
   - block: markdown
     content:
       title: |
-        <span style="color:#F3B26D">**M**</span>echanically 
-        <span style="color:#F3B26D">**In**</span>telligent 
-        <span style="color:#F3B26D">**En**</span>gineered 
-        <span style="color:#F3B26D">**S**</span>tructures 
+        <span style="color:#F3B26D">**M**</span>echanically  
+        <span style="color:#F3B26D">**In**</span>telligent  
+        <span style="color:#F3B26D">**En**</span>gineered  
+        <span style="color:#F3B26D">**S**</span>tructures  
         <span style="color:#F3B26D">Lab</span>oratory 
       subtitle: ''
       # image:
