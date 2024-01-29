@@ -18,8 +18,8 @@
 }
 
 // Headers
-.navbar-brand a {
-  font-size: 1em;
+.navbar a {
+  font-size: 1 em;
   font-weight: 200;
   font-variant-caps: small-caps;
 }
@@ -28,11 +28,13 @@
     font-weight: 200;
     font-variant-caps: small-caps;
   }
+// Blocks headings
 .section-heading h1 {
   font-size: 1 em;
   font-weight: 200;
   font-variant-caps: small-caps;
 }
+// Book headings
 .docs-article-container h1{
   font-size: 1 em;
   font-weight: 200;
