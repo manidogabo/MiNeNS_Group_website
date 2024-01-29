@@ -1,6 +1,6 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
-  font-size: 1 em; 
+  font-size: 2em; 
   font-weight: 200;
   font-variant-caps: small-caps;
   text-align: center;
@@ -18,8 +18,8 @@
 }
 
 // Headers
-.navbar a {
-  font-size: 1 em;
+.navbar-brand a {
+  font-size: 1em;
   font-weight: 200;
   font-variant-caps: small-caps;
 }
