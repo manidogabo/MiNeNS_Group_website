@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Lab Values
+linktitle: Values
 summary: The core values of the **MInEnS Lab**
 weight: 2
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Lab Values
+title: Values
 date: '2024-01-24T00:00:00Z'
 type: book # Do not modify.
 toc: true

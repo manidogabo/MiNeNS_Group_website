@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Trevor J Jones
+title: Admin
 
 # Full Name (for SEO)
 first_name: Trevor
