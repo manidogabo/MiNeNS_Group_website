@@ -18,35 +18,37 @@
 }
 
 // Headers
-.navbar a {
-  font-size: 1 em;
+// .navbar a {
+//   font-weight: 200;
+//   font-variant-caps: small-caps;
+// }
+.nav-item a {
+  font-weight: 200;
+  font-variant-caps: small-caps;
+}
+.navbar-brand {
   font-weight: 200;
   font-variant-caps: small-caps;
 }
 .col-md-12 h2 {
-    font-size: 1 em;
+    font-size: 2em;
     font-weight: 200;
     font-variant-caps: small-caps;
   }
 // Blocks headings
 .section-heading h1 {
-  font-size: 1 em;
+  font-size: 2em;
   font-weight: 200;
   font-variant-caps: small-caps;
 }
 // Book headings
 .docs-article-container h1{
-  font-size: 1 em;
+  font-size: 2em;
   font-weight: 200;
   font-variant-caps: small-caps;
 }
 .article-container h1{
-    font-size: 1 em;
-    font-weight: 200;
-    font-variant-caps: small-caps;
-}
-.citations h1{
-    font-size: 1 em;
+    font-size: 2em;
     font-weight: 200;
     font-variant-caps: small-caps;
 }
