@@ -28,8 +28,20 @@ gallery_item:
     image: raspberry.jpg
     caption: An all-in-one soft robotic gripper and muscle
   - album: gallery
+    image: gripper-muscle.jpg
+    caption: An all-in-one soft robotic gripper and muscle
+  - album: gallery
+    image: drip.jpg
+    caption: Capillary drainage inside and outside a tube
+  - album: gallery
+    image: cross-sections.jpg
+    caption: Cross sections of bending actuators
+  - album: gallery
     image: wings.jpg
     caption: Cicada wings at various deployment stages
+  - album: gallery
+    image: bulge.jpg
+    caption: Cylindrical balloon partially inflated
 
 sections:
 #   - block: markdown
