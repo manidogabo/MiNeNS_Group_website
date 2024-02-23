@@ -66,12 +66,15 @@ I find this environment helps me to write faster and with less distraction than 
         - add to path .zprofile
     2. NeoVim
         - install via Homebrew
+        - install on Python3 `pip3 install pynvim`
     3. Install plugins from vim-plug
         - .local/nvim/init.vim
+        - `:PlugInstall`
     4. Configure
         - .zshrc
         - .configure/neovim
 - Other tools
     1. Ranger
-        - Configure
-    2. 
+        - .configure/ranger
+    2. Overleaf
+- Overleaf and Github workflow
