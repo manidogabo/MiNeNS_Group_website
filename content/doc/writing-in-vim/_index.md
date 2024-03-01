@@ -16,6 +16,9 @@ type: book # Do not modify.
 This page is still under construction!
 {{% /callout %}}
 
+[How to speak lecture](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)  
+[Whitesides' Group: Writing a paper](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf)
+
 We are in the business of creating knowledge and then sharing that knowledge, with an emphasis on sharing.
 Writing is the means by which we document our creations and share it to the world. 
 Thus, as I and many academics have found, writing is one of the most important aspect of my job.
