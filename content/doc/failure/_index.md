@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Success & Failure
+linktitle: Success/Failure
 summary: Commentary on success and failure in academia    
 weight: 6
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Success & Failure
+title: Success and Failure
 date: '2024-02-29T00:00:00Z'
 type: book # Do not modify.
 toc: true
@@ -17,7 +17,7 @@ toc: true
 This page is still under construction!
 {{% /callout %}}
 
-## Success and Failure: What are they? and Who chooses? 
+## What are they?
 
 During your time in academia you will likely experience:
 - your papers, fellowships, and grants being rejected;
