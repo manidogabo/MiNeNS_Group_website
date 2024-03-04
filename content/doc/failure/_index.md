@@ -17,7 +17,7 @@ toc: true
 This page is still under construction!
 {{% /callout %}}
 
-## Success and Failure: What are they? and Who choses? 
+## Success and Failure: What are they? and Who chooses? 
 
 During your time in academia you will likely experience:
 - your papers, fellowships, and grants being rejected;
