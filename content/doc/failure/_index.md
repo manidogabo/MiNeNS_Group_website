@@ -19,12 +19,13 @@ This page is still under construction!
 
 ## What are they?
 
-During your time in academia you will likely experience:
-- your papers, fellowships, and grants being rejected;
-- honors, awards, and jobs you are qualified for being given to others; 
-- and your thoughts, ideas, and values being criticized.
+During your time as a PhD you will likely experience:
+- your papers, fellowships, and grants being accepted/rejected;
+- honors, awards, and jobs you are qualified for being given to you/others; 
+- and your thoughts, ideas, and values being praised/criticized.
 
-These negative experiences feel personal and, if given the power, can situate how we feel belonging in the broader community of academics.
+These positive/negative experiences feel personal and, if given the power, can situate how we feel belonging in the broader community of academics.
+This, is a trap.
 
 Externalities are the entropy of academic growth and research life.
 
