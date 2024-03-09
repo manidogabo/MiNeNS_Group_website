@@ -3,7 +3,7 @@
 linktitle: Meetings
 summary: The core values of the **MInEnS Lab**
 weight: 5
-icon: book-reader
+icon: people-arrows
 icon_pack: fas
 
 # Page metadata.
@@ -84,6 +84,6 @@ There are many reasons to have irregular meetings both for personal or scientifi
 This time is for you as much as it is for me it is important that meeting formats fit a style that works for you. 
 Let's find best practices that work for us. 
 
-I don't suggest making independent documents for meetings such as meeting agendas, independent slides, etc. What you prepare should be deliverables for what matters most in telling a story. That looks like fellowships, job applications, papers, presentations, grants. If what you are preparing does not work for those items we need to assess how important they are. Going over data should be in the framework of a publication figure or presentation slide. Use this time as an auxillary to work on the things that are measured. 
+I don't suggest making independent documents for meetings such as meeting agendas, independent slides, etc. What you prepare should be deliverables for what matters most in telling a story. That looks like fellowships, job applications, papers, presentations, grants. If whatf you are preparing does not work for those items we need to assess how important they are. Going over data should be in the framework of a publication figure or presentation slide. Use this time as an auxillary to work on the things that are measured. 
 
 These deliverables are developed over time and not finished products the first time we see them. Expect the development to look like a skeleton that we slowly add flesh to. Things like formatting and organizaiton are long time goals. Attempt early on to do these right but don't stress over presenting them only in final form. For example, new data can be presented in native plotting forms but as they are added to presentations or writings they should be updated to include readable colors, have proper labels, coexist with captions, and so-on.

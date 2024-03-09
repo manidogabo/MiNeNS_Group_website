@@ -3,7 +3,7 @@
 linktitle: Values
 summary: The core values of the **MInEnS Lab**
 weight: 2
-icon: book-reader
+icon: gems
 icon_pack: fas
 
 # Page metadata.

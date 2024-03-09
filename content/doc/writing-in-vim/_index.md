@@ -3,7 +3,7 @@
 linktitle: Writing
 summary: Steps for setting up LaTeX writing in terminal via vim with PDF link support
 weight: 5
-icon: book
+icon: edit
 icon_pack: fas
 
 # Page metadata.

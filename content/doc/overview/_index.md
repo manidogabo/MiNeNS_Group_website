@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Summary
+linktitle: Overview
 summary: MInEnS Lab Mission
 weight: 1
-icon: book-reader
+icon: home
 icon_pack: fas
 
 # Page metadata.
-title: Summary
+title: Overview
 date: '2024-01-24T00:00:00Z'
 type: book # Do not modify.
 toc: true

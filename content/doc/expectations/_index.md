@@ -3,7 +3,7 @@
 linktitle: Expectations
 summary: What I expect from you and you can expect from me
 weight: 3
-icon: book-reader
+icon: user
 icon_pack: fas
 
 # Page metadata.

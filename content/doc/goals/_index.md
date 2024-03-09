@@ -3,7 +3,7 @@
 linktitle: Goals
 summary: Lab goals
 weight: 4
-icon: book-reader
+icon: seedling
 icon_pack: fas
 
 # Page metadata.
