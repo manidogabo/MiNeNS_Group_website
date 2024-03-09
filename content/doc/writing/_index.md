@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Writing
-date: '2024-01-24T00:00:00Z'
+date: '2024-03-09'
 type: book # Do not modify.
 ---
 
@@ -53,31 +53,3 @@ I try to make the writing environment convenient, fast, and distractionless.
 To accomplish these conditions I usually write in Mathematica notebooks or LaTeX.
 I primarily use Mathematica notebooks for technical documentaition by usnig the native organization cells, performing calculations, and creating figures or plots.
 I use LaTeX to write most other documents.
-
-### Writing in Vim
-
-Below, I document how I accomplish this in my terminal as my primary writing software on Mac.
-I find this environment helps me to write faster and with less distraction than using other LaTeX IDEs. 
-
-- Dependencies
-    1. Iterm
-    2. TeXLive
-    2. Homebrew
-- <span style="color:#F3B26D">**Steps**</span>
-    1. Homebrew
-        - install
-        - add to path .zprofile
-    2. NeoVim
-        - install via Homebrew
-        - install on Python3 `pip3 install pynvim`
-    3. Install plugins from vim-plug
-        - .local/nvim/init.vim
-        - `:PlugInstall`
-    4. Configure
-        - .zshrc
-        - .configure/neovim
-- Other tools
-    1. Ranger
-        - .configure/ranger
-    2. Overleaf
-- Overleaf and Github workflow
