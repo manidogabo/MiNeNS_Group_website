@@ -3,7 +3,7 @@
 linktitle: Success/Failure
 summary: Commentary on success and failure in academia    
 weight: 6
-icon: book-reader
+icon: traffic-light
 icon_pack: fas
 
 # Page metadata.
