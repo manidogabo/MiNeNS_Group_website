@@ -13,6 +13,11 @@ weight: 3
 
 {{% callout warning %}}
 This page is still under construction!
+{{< spoiler text="To-do" >}}
+- [ ] flesh out the set-up instuctions
+    - [ ] all the plugins
+    - [ ] organization of output documents, figures, and other resources
+{{< /spoiler >}}
 {{% /callout %}}
 
 Below, I document how I accomplish this in my terminal as my primary writing software on Mac.
@@ -40,11 +45,3 @@ I find this environment helps me to write faster and with less distraction than 
         - .configure/ranger
     2. Overleaf
 - Overleaf and Github workflow
-
-{{% callout note %}}
-{{< spoiler text="To-do" >}}
-- [ ] flesh out the set-up instuctions
-    - [ ] all the plugins
-    - [ ] organization of output documents, figures, and other resources
-{{< /spoiler >}}
-{{% /callout %}}

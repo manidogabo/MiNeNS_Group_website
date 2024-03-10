@@ -14,15 +14,15 @@ type: book # Do not modify.
 
 {{% callout warning %}}
 This page is still under construction!
-{{% /callout %}}
-
-[How to speak lecture](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)  
-
-{{% callout note %}}
 {{< spoiler text="To-do" >}}
 - [ ] Best practices for presentations
 - [ ] posters vs talks
 - [ ] frequency, timing, venues
 - [ ] qualifying exams, proposals, and defense
+- [ ] better link descriptions : Author, Title, location
 {{< /spoiler >}}
 {{% /callout %}}
+
+## Resources
+
+- [P. Winston **How to Speak** *MIT OpenCourseWare*](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)  

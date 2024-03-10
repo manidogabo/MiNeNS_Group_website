@@ -15,6 +15,11 @@ toc: true
 
 {{% callout warning %}}
 This page is still under construction!
+{{< spoiler text="To-do" >}}
+- [ ] What other sections to organize this with?
+- [ ] should trainees be split amongst groups: undergrads, masters, PhDs, postdocs?
+- [ ] draft PI expectations
+{{< /spoiler >}}
 {{% /callout %}}
 
 The **MInEnS Lab** is an academic group that is defined by a PI, trainees, and the network of relationships amongst our members. 

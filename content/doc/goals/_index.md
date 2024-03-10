@@ -15,4 +15,7 @@ toc: true
 
 {{% callout warning %}}
 This page is still under construction!
+{{< spoiler text="To-do" >}}
+- [ ] What was the purpose of this page?
+{{< /spoiler >}}
 {{% /callout %}}
