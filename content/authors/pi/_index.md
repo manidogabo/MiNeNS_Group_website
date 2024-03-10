@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Trevor James Jones
+title: Trevor J Jones
 
 # Full name (for SEO)
 first_name: Trevor
