@@ -1,14 +1,17 @@
 ---
 # Display name
-title: Trevor Jones
+title: Trevor J Jones
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Trevor
 last_name: Jones
 
-# Is this the primary user of the site?
+# Username (this should match the folder name)
 authors:
-  - pi
+  - pi1
+
+# Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Assistant Professor
@@ -21,13 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Anishinaabe scholar interested in fluids & elasticity, soft matter, and nonlinear dynamics.
 
-# Interests to show in About widget
 interests:
   - fluids & elasticity
   - soft matter
   - nonlinear dynamics
 
-# Education to show in About widget
 education:
   courses:
     - course: PhD in Chemical Engineering
@@ -51,6 +52,18 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xnyNe2EAAAAJ&hl=en
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:test@example.org'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,15 +73,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
-
 ---
+
 
 Boozhoo!  
 I am an Assistant Professor of Mechanical Engineering at Carnegie Mellon University.
@@ -77,4 +87,3 @@ This curiosity-driven research aims to develop predictive models of nonlinear sy
 On the day-to-day you will find me using bubbles and balloons or beads and string as a craftman's tools to build new materials.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tjj-cv.pdf" "newtab" >}}cv{{< /staticref >}}.
-
