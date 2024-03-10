@@ -70,7 +70,7 @@ user_groups:
 
 ---
 
-Boozhoo! 
+Boozhoo!  
 I am an Assistant Professor of Mechanical Engineering at Carnegie Mellon University.
 My work focuses on the adaptation of *everyday* and soft matter physics to inspire, inform, and design new technologies. 
 This curiosity-driven research aims to develop predictive models of nonlinear systems inspired by mechanical instabilities, biology, and art.
