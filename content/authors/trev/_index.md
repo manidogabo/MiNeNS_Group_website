@@ -51,7 +51,7 @@ social:
     link: https://twitter.com/Trev_J_Jones
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=xnyNe2EAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=mI7VyEYAAAAJ&hl=en&oi=ao
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:test@example.org'
