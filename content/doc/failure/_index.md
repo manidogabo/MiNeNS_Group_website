@@ -3,8 +3,8 @@
 linktitle: Success/Failure
 summary: Commentary on success and failure in academia    
 weight: 6
-icon: award
-icon_pack: fas
+# icon: award
+# icon_pack: fas
 
 # Page metadata.
 title: Success and Failure

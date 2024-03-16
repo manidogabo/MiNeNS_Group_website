@@ -3,14 +3,14 @@
 linktitle: Expectations
 summary: What I expect from you and you can expect from me
 weight: 3
-icon: user
-icon_pack: fas
+# icon: flag-checkered
+# icon_pack: fas
 
 # Page metadata.
 title: Expectations
 date: '2024-01-24T00:00:00Z'
 type: book # Do not modify.
-toc: true
+toc: false
 ---
 
 {{% callout warning %}}

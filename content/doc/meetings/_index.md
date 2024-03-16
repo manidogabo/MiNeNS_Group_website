@@ -3,8 +3,8 @@
 linktitle: Meetings
 summary: The core values of the **MInEnS Lab**
 weight: 5
-icon: people-arrows
-icon_pack: fas
+# icon: people-arrows
+# icon_pack: fas
 
 # Page metadata.
 title: Meetings

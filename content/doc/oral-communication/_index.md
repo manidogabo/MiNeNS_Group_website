@@ -3,8 +3,8 @@
 linktitle: Presentations
 summary: Steps for setting up LaTeX writing in terminal via vim with PDF link support
 weight: 5
-icon: comment
-icon_pack: fas
+# icon: chalkboard
+# icon_pack: fas
 
 # Page metadata.
 title: Presentations

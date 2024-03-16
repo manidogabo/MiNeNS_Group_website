@@ -3,8 +3,8 @@
 linktitle: Goals
 summary: Lab goals
 weight: 4
-icon: seedling
-icon_pack: fas
+# icon: seedling
+# icon_pack: fas
 
 # Page metadata.
 title: Goals

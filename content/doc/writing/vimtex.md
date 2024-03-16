@@ -4,8 +4,8 @@ linktitle: VimTeX
 type: book
 date: '2024-03-09'
 
-icon: terminal
-icon_pack: fas
+# icon: terminal
+# icon_pack: fas
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3

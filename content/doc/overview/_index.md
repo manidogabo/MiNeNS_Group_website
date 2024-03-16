@@ -3,8 +3,8 @@
 linktitle: Overview
 summary: MInEnS Lab Mission
 weight: 1
-icon: home
-icon_pack: fas
+# icon: home
+# icon_pack: fas
 
 # Page metadata.
 title: Overview
