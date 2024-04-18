@@ -17,6 +17,7 @@ This page is still under construction!
 {{% /callout %}}
 
 [How to speak lecture](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)  
+[Judy Swan, Scientific Writing: Beyond Tips and Tricks](https://youtu.be/jLPCdDp_LE0?si=vk4T7zEJlp9akri8)
 [Whitesides' Group: Writing a paper](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf)
 
 We are in the business of creating knowledge and then sharing that knowledge, with an emphasis on sharing.
