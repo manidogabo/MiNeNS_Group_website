@@ -15,7 +15,7 @@ authors:
 tags: [elasticity, fluids, pattern formation]
 categories: [elasticity, fluids, pattern formation]
 date: '2024-03-14'
-lastmod: 2024-04-18T08:19:32-04:00
+lastmod: 2024-04-17T08:19:32-04:00
 featured: false
 draft: false
 

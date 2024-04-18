@@ -14,7 +14,7 @@ authors:
 tags: [elasticity, textiles, granular matter, metamaterials]
 categories: [elasticity, textiles, granular matter, metamaterials]
 date: '2024-04-05'
-lastmod: 2024-04-18T08:19:32-04:00
+lastmod: 2024-04-17T08:19:32-04:00
 featured: false
 draft: false
 
