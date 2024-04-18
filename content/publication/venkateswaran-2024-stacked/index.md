@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Stacked Rayleigh-Taylor instabilities grow drops into soft stalactite-like structures
+title: 'Stacked Rayleigh-Taylor instabilities grow drops into soft stalactite-like structures'
 subtitle: ''
 summary: ''
 doi: '10.48550/arXiv.2403.09837'

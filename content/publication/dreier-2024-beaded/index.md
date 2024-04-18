@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Beaded Metamaterials
+title: 'Beaded Metamaterials'
 subtitle: ''
 summary: ''
 doi: '10.48550/arXiv.2404.04227'

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Emergent intelligence of buckling-driven elasto-active structures
+title: 'Emergent intelligence of buckling-driven elasto-active structures'
 subtitle: ''
 summary: ''
 doi: '10.48550/arXiv.2404.10614'
