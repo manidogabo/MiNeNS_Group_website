@@ -3,8 +3,8 @@
 linktitle: Resources
 summary: resources page
 weight: 9
-icon: comment
-icon_pack: fas
+# icon: comment
+# icon_pack: fas
 
 # Page metadata.
 title: Resources
