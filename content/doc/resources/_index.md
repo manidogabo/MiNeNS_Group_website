@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Presentations
-summary: Steps for setting up LaTeX writing in terminal via vim with PDF link support
-weight: 5
+linktitle: Resources
+summary: resource page
+weight: 999
 icon: comment
 icon_pack: fas
 
 # Page metadata.
-title: Presentations
+title: Resources
 date: '2024-03-09'
 type: book # Do not modify.
 ---
