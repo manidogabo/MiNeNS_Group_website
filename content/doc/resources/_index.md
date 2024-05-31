@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Resources
-summary: resource page
+summary: resources page
 weight: 9
 icon: comment
 icon_pack: fas
