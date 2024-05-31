@@ -8,11 +8,7 @@ last_name: Jones
 
 # Username (this should match the folder name)
 authors:
-<<<<<<<< HEAD:content/authors/trev/_index.md
-  - trev
-========
   - prof
->>>>>>>> ade98e0 (adding resources page):content/authors/prof/_index.md
 
 # Is this the primary user of the site?
 superuser: false
