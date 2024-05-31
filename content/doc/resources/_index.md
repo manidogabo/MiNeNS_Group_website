@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Resources
-date: '2024-03-09'
+date: '2024-05-31'
 type: book # Do not modify.
 ---
 
