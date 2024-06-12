@@ -23,10 +23,15 @@ This page is still under construction!
 {{< /spoiler >}}
 {{% /callout %}}
 
-## Resources
+Here are some of my favorite resources that have influenced my academic life.
 
 ### Communicating Science
-- [P Winston **How to Speak** *MIT OpenCourseWare*](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)  
+- [P Winston **How to Speak** *MIT OpenCourseWare*](https://youtu.be/Unzc731iCUY?si=Ys_-uoBNYL29bhdd)
 
-### Choosing a research question
+### Research questions
+- S Johnson. **Where good ideas come from**
 - [MA Fischbach. **Problem choice and decision trees in science and engineering** *Cell*](https://doi.org/10.1016/j.cell.2024.03.012)
+
+### Writing
+- [Strunk and White. **The Elements of Style**]
+- [Zinsser **On Writing Well**]
