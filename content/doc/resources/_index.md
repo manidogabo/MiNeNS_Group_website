@@ -35,3 +35,4 @@ Here are some of my favorite resources that have influenced my academic life.
 ### Writing
 - [Strunk and White. **The Elements of Style**]
 - [Zinsser **On Writing Well**]
+- [tmp]
