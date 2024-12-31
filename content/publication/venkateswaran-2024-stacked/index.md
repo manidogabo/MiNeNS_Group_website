@@ -4,7 +4,7 @@
 title: 'Stacked Rayleigh-Taylor instabilities grow drops into soft stalactite-like structures'
 subtitle: ''
 summary: ''
-doi: '10.48550/arXiv.2403.09837'
+doi: '10.1103/PhysRevLett.133.198201'
 authors:
 - Barath Venkateswaran
 - Trevor J Jones
@@ -34,7 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2024-03-14T19:59:01.441766Z'
-publication_types: ["article-preprint"]
-abstract: 'The interplay between thin film hydrodynamics and solidification produces formidably intricate geophysical structures, such as stalactites and icicles, whose shape is a testimony of their long growth. In simpler settings, liquid films can also produce regular patterns. When coated on the underside of a flat plate, these films are unstable and yield lattices of drops following the Rayleigh-Taylor instability. While this interfacial instability is well-studied in Newtonian fluids, much less is known about what happens when the thin film solidifies. Here, we coat the underside of a surface with liquid elastomer, allowing the film to destabilize and flow while it cures into an elastic solid. Once the first coating yields an array of solid droplets, this iterative coat-flow-cure process is repeated and gives rise to corrugated slender structures, which we name flexicles for their resemblance to icicles. We study the subtle combination of chaos and order that confers our flexicles, their structure, shape, arrangement, and, ultimately, deformability.'
-publication: '*arXiv*'
+publication_types: ["article"]
+abstract: 'The interplay between thin film hydrodynamics and solidification produces formidably intricate geophysical structures, such as stalactites and icicles, whose shape is a testimony of their long growth. In simpler settings, liquid films can also produce regular patterns. When coated on the underside of a flat plate, these films are unstable and yield lattices of drops following the Rayleigh-Taylor instability. While this interfacial instability is well-studied in Newtonian fluids, much less is known about what happens when the thin film solidifies. Here, we coat the underside of a surface with liquid elastomer, allowing the film to destabilize and flow while it cures into an elastic solid. Once the first coating yields an array of solid droplets, this iterative coat-flow-cure process is repeated and gives rise to corrugated slender structures, which we name “flexicles” for their resemblance to icicles. We study the subtle combination of chaos and order that confers our flexicles their structure, shape, arrangement, and, ultimately, deformability.'
+publication: '*Physical Review Letters*'
 ---
