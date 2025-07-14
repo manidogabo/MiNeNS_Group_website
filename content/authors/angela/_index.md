@@ -1,21 +1,20 @@
 ---
-draft: true
 # Display name
-title: Bio-degradable Robotics
+title: Angela Lee
 
 # Full name (for SEO)
-first_name: PhD
-last_name: Opening
+first_name: Angela
+last_name: Lee
 
 # Username (this should match the folder name)
 authors:
-  - phd_opening_04
+  - angela
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -23,27 +22,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bio-robotics and programmable matter.
+bio: My research interests include distributed robotics and programmable matter.
 
 interests:
-  - Soft Robotics
-  - Bio-Materials
+  - Fluids & Elasticity
+  - Self-Assembly Fabrication
   - Design
 
 education:
   courses:
-    - course: PhD in Mechanical Engineering
-      institution: Carngegie Mellon University
-      year: 2030
-    - course: BSc in Mechanical Engineering
-      institution: Art Vendelay Institute of Technology
-      year: 2024
+    - course: BSc's in Mechanical Engineering and Textile Engineering
+      institution: North Carolina State University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:aalee2@andrew.cmu.edu'
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:test@example.org'
@@ -68,7 +67,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Openings
+  - PhD Students
 ---
 
-PhD opening in bio-degradable functional materials
+Angela is a first-year Ph.D. student studying bead-woven materials and fluid-mediated textile fabrication. 
+She is from North Carolina, where she received her Bachelor’s degrees in Mechanical and Textiles Engineering at North Carolina State University. 
+She has worked with PolyPV and Pacific Northwest National Laboratory, and has a strong foundation in fabricating flexible, semi-transparent, thin film solar cells and adhesive failure. 
+During her undergraduate studies, she organized multiple first-year engineering events for over 1,000 participants and represented the College of Engineering at NC State in engineering outreach and academic mentorship. 
+In her free time, Angela enjoys competing in sabre fencing and cafe hopping.
