@@ -31,7 +31,8 @@ interests:
 
 education:
   courses:
-    - course: BSc's in Mechanical Engineering
+    - course: BSc's in Mechanical Engineering 
+            (Minor in Music)
       institution: Worcester Polytechnic Institute
       year: 2025
 
@@ -70,4 +71,4 @@ user_groups:
   - PhD Students
 ---
 
-Imogen is a Ph.D. student co-advised with Vickie Webster-Wood studying bio-degradable soft-robotics. 
+Imogen is a first-year Ph.D. student researching biodegradable materials for robotics. Her work integrates sustainability, design, and materials science to develop robots that minimize environmental impact. She earned her B.S. in Mechanical Engineering with a minor in Music from Worcester Polytechnic Institute. At WPI, she worked in the Electric Guitar Innovation Lab on projects merging design, accessibility, and materials science, including developing open-source digital effects platforms and preserving historical guitars through digital modeling. Her senior capstone focused on metallurgy and mechanical design, deepening her interest in how material properties influence performance and function. Outside of academics, Imogen enjoys rock climbing, playing guitar, and making art.
