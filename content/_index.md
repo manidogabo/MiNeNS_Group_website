@@ -37,7 +37,7 @@ gallery_item:
     image: cross-sections.jpg
     caption: Cross sections of bending actuators
   - album: gallery
-    image: 01-web.jpg
+    image: 01-web-inspired.jpg
     caption: Spiderweb inspired structure
   - album: gallery
     image: bulge.jpg
@@ -101,6 +101,8 @@ sections:
         {{% cta cta_link="./people/" cta_text="Join Us! →" %}}
 
         {{< youtube 61HpWDJ1bsw >}}
+
+        {{< youtube TZAJAnDTO7g >}}
 
     design:
       columns: '2'
