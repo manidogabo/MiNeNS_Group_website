@@ -37,8 +37,8 @@ gallery_item:
     image: cross-sections.jpg
     caption: Cross sections of bending actuators
   - album: gallery
-    image: wings.jpg
-    caption: Cicada wings at various deployment stages
+    image: 01-web.jpg
+    caption: Spiderweb inspired structure
   - album: gallery
     image: bulge.jpg
     caption: Cylindrical balloon partially inflated
