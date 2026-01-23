@@ -37,11 +37,14 @@ gallery_item:
     image: cross-sections.jpg
     caption: Cross sections of bending actuators
   - album: gallery
-    image: 01-web-inspired.jpg
+    image: aa-web-inspired.jpg
     caption: Spiderweb inspired structure
   - album: gallery
     image: bulge.jpg
     caption: Cylindrical balloon partially inflated
+  - album: gallery
+    image: bio-thread.jpg
+    caption: Alignate threads
 
 sections:
 #   - block: markdown
