@@ -4,7 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-
 gallery_item:
   - album: gallery
     image: balloon-pop.jpg
@@ -105,9 +104,9 @@ sections:
 
         {{< youtube 61HpWDJ1bsw >}}
 
-        {{< youtube SpZwR7D3F8A >}}
-
         {{< youtube TZAJAnDTO7g >}}
+
+        {{< youtube SpZwR7D3F8A >}}
 
     design:
       columns: '2'
