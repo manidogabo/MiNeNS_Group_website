@@ -70,8 +70,4 @@ user_groups:
   - PhD Students
 ---
 
-Angela is a first-year Ph.D. student studying bead-woven materials and fluid-mediated textile fabrication. 
-She is from North Carolina, where she received her Bachelor’s degrees in Mechanical and Textiles Engineering at North Carolina State University. 
-She has worked with PolyPV and Pacific Northwest National Laboratory, and has a strong foundation in fabricating flexible, semi-transparent, thin film solar cells and adhesive failure. 
-During her undergraduate studies, she organized multiple first-year engineering events for over 1,000 participants and represented the College of Engineering at NC State in engineering outreach and academic mentorship. 
-In her free time, Angela enjoys competing in sabre fencing and cafe hopping.
+Kira is a first-year Ph.D. student studying bead-woven materials. 
