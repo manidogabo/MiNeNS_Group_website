@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics and programmable matter.
+bio: My research interests include fluid fabrication and crafted matter.
 
 interests:
   - Fluids & Elasticity

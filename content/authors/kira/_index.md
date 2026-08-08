@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Imogen Barnes
+title: Kira Marr
 
 # Full name (for SEO)
-first_name: Imogen
-last_name: Barnes
+first_name: Kira
+last_name: Marr
 
 # Username (this should match the folder name)
 authors:
-  - imogen
+  - kira
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,19 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biodegradable materials, soft robotics, and design
+bio: My research interests include distributed robotics and programmable matter.
 
 interests:
-  - Bio-materials
-  - Soft-robotics
+  - Elasticity
+  - Soft Robotics
   - Design
 
 education:
   courses:
-    - course: BSc's in Mechanical Engineering 
-            (Minor in Music)
-      institution: Worcester Polytechnic Institute
-      year: 2024
+    - course: BSc in Mechanical Engineering
+      institution: Lafayette College
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ibarnes@andrew.cmu.edu'
+    link: 'mailto:aalee2@andrew.cmu.edu'
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:test@example.org'
@@ -71,4 +70,8 @@ user_groups:
   - PhD Students
 ---
 
-Imogen is a first-year Ph.D. student researching biodegradable materials for robotics. Her work integrates sustainability, design, and materials science to develop robots that minimize environmental impact. She earned her B.S. in Mechanical Engineering with a minor in Music from Worcester Polytechnic Institute. At WPI, she worked in the Electric Guitar Innovation Lab on projects merging design, accessibility, and materials science, including developing open-source digital effects platforms and preserving historical guitars through digital modeling. Her senior capstone focused on metallurgy and mechanical design, deepening her interest in how material properties influence performance and function. Outside of academics, Imogen enjoys rock climbing, playing guitar, and making art.
+Angela is a first-year Ph.D. student studying bead-woven materials and fluid-mediated textile fabrication. 
+She is from North Carolina, where she received her Bachelor’s degrees in Mechanical and Textiles Engineering at North Carolina State University. 
+She has worked with PolyPV and Pacific Northwest National Laboratory, and has a strong foundation in fabricating flexible, semi-transparent, thin film solar cells and adhesive failure. 
+During her undergraduate studies, she organized multiple first-year engineering events for over 1,000 participants and represented the College of Engineering at NC State in engineering outreach and academic mentorship. 
+In her free time, Angela enjoys competing in sabre fencing and cafe hopping.
