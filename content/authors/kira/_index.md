@@ -71,3 +71,7 @@ user_groups:
 ---
 
 Kira is a first-year Ph.D. student studying bead-woven materials. 
+Kira grew up in Reading, Pennsylvania and received her Bachelor's of Science in Mechanical Engineering from Lafayette College. 
+At Lafayette, she conducted research on 3D printed force sensors, which sparked her interest in the effects of structure on overall material properties when exposed to external stimuli. 
+Her undergraduate senior thesis focused on integrating 3D printed capacitive sensors into an insole that could be used to detect limping. 
+Kira also enjoys running, reading, and art, particularly drawing and painting. 
